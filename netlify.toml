@@ -1,0 +1,4 @@
+[build]
+  base = "social-links-profile-main"
+  publish = "."
+  command = ""
